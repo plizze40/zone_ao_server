@@ -1,0 +1,182 @@
+[INIT]
+NumMaps=20
+
+[Mapa1]
+Name=Ullathorpe Este
+MusicNum=13-1
+Pk= 1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa2]
+Name=Cárcel
+MusicNum=14-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 5
+LeftPunto= 3
+
+[Mapa3]
+Name=Mapa de GMs
+MusicNum=38-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa4]
+Name=Laberinto
+MusicNum=24-1
+Terreno=NIEVE
+Zona=DUNGEON
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa5]
+Name=Mapa de Teleports
+MusicNum=14-1
+Pk= 1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa6]
+Name=Dungeon Dragon
+MusicNum=14-1
+Terreno=NIEVE
+Zona=DUNGEON
+TopPunto= 6
+LeftPunto= 15
+
+[Mapa7]
+Name=Torneos Automáticos
+MusicNum=6-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 20
+LeftPunto= 2
+
+[Mapa8]
+Name=Mapa de Torneos
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa9]
+Name=Mapa de espera
+MusicNum=35-1
+Pk= 1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 3
+
+[Mapa10]
+Name=Mapa de Retos II vs II
+MusicNum=55-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa11]
+Name=Mapa de Agite II
+MusicNum=58-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa12]
+Name=Mapa de Deathmatch
+MusicNum=55-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa13]
+Name=Mapa de Plantes
+MusicNum=55-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa14]
+Name=Mapa de Cruzada
+MusicNum=58-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa15]
+Name=Mapa de Retos I vs I
+MusicNum=55-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa16]
+Name=Mapa de Duelos
+MusicNum=55-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa17]
+Name=Mapa de Retos
+MusicNum=27-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa18]
+Name=Castillo Pretoriano
+MusicNum=58-1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa19]
+Name=Dungeon Clan
+MusicNum=17
+NoMagia=0
+Nivel=1
+Terreno=NIEVE
+Zona=CAMPO
+Restringir=0
+BackUp=1
+Pk=0
+
+[Mapa20]
+Name=Zona de comercio
+MusicNum=13
+NoMagia=0
+Nivel=1
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=0
+BackUp=1
+Pk=1
